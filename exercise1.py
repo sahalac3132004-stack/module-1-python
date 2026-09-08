@@ -1,0 +1,1 @@
+print(f"name=sahal,age=22,city=tirur")
