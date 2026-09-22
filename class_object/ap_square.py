@@ -1,0 +1,26 @@
+class Square:
+    
+    def __init__(self, side):
+        self.side = side
+
+    def area(self):
+        return self.side ** 2
+
+    def perimeter(self):
+        return 4 * self.side
+
+obj=Square(4)
+print(obj.area())
+print(obj.perimeter())
+
+
+
+
+
+
+
+
+
+
+	
+	
